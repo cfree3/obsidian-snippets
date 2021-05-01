@@ -1,0 +1,6 @@
+/*
+ * "Same Size" :: Use the same size font for all editor elements.
+ */
+.CodeMirror * {
+    font-size: inherit !important;
+}

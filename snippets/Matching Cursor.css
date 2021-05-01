@@ -1,0 +1,11 @@
+/*
+ * "Matching Cursor" :: Make cursor match accent color.
+ *
+ *     CSS from Obsidian forum:
+ *         https://forum.obsidian.md/t/how-to-change-block-cursor-color-vim-mode/7429/6
+ *
+ */
+.CodeMirror-cursor {
+    background-color: var(--text-accent) !important;
+    opacity: 60% !important;
+}

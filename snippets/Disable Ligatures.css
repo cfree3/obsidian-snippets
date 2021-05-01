@@ -1,0 +1,9 @@
+/*
+ * "Disable Ligatures" :: Disables ligatures in Obsidian.
+ */
+:root {
+    font-variant-ligatures: none !important;
+}
+.markdown-source-view {
+    font-variant-ligatures: none !important;
+}

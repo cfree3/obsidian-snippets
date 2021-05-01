@@ -1,0 +1,21 @@
+/*
+ * "Rainbow Headings" :: Use ROYGBV for header markers.
+ */
+.cm-formatting-header-1 {
+    color: red !important;
+}
+.cm-formatting-header-2 {
+    color: orange !important;
+}
+.cm-formatting-header-3 {
+    color: yellow !important;
+}
+.cm-formatting-header-4 {
+    color: green !important;
+}
+.cm-formatting-header-5 {
+    color: blue !important;
+}
+.cm-formatting-header-6 {
+    color: purple !important;
+}

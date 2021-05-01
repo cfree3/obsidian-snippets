@@ -1,0 +1,9 @@
+/*
+ * "JetBrains Mono" :: Use JetBrains Mono font.
+ */
+:root {
+    --font-monospace: 'JetBrains Mono', monospace;
+}
+.markdown-source-view {
+    font-family: 'JetBrains Mono', monospace;
+}
