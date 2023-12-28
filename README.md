@@ -2,6 +2,8 @@
 
 _A collection of CSS "snippets" to modify the appearance of the [Obsidian][obsidian] Markdown note tool._
 
+> *NOTE:* This repository is no longer maintained!
+
 ## Credits
 
 See comments within individual CSS scripts for source URLs where appropriate.
